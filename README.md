@@ -80,3 +80,12 @@ _Bildquellen_
 - https://www.istockphoto.com/es/vector/el-desarrollador-del-juego-supervisa-el-icono-de-l%C3%ADnea-desarrollo-s%C3%ADmbolo-del-lugar-gm1214108050-353106161
 - https://stock.adobe.com/de/images/wechselgeld-bargeld-scheine-munzen-euro-comic-von-hand-gezeichnet-cartoon-illustration-konzept-vektor-freigestellt/122816619
 - https://www.klinikum-nf.de/karriere/ausbildung-fsj
+
+### TeleChirurg*in
+- https://www.update-healthcare.de/2019/09/24/neue-berufsbilder/ 
+- https://www.brunelswitzerland.ch/de-ch/management-ratgeber/telemedizin
+- https://www.handelsblatt.com/technik/das-technologie-update/healthcare/telechirurgie-wenn-der-roboter-das-skalpell-fuehrt/8482780-all.html
+- https://www.gehalt.de/beruf/chirurg-chirurgin
+
+_Videoquelle_
+- https://youtu.be/KAvQsRL-jeo
