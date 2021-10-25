@@ -89,3 +89,13 @@ _Bildquellen_
 
 _Videoquelle_
 - https://youtu.be/KAvQsRL-jeo
+
+### ESport-Manager*in
+- https://www.studycheck.de/berufe/e-sportler
+- https://www.wings.hs-wismar.de/de/weiterbildung/esport-manager
+- https://www.wings.hs-wismar.de/de/weiterbildung/esport-manager/kursinhalte/modul?module=esport_management_im_breitensport&pid=56
+
+_Bildquellen_
+- https://gamepedia.cursecdn.com/fifa_esports_gamepedia_en/e/eb/FOKUS_CLANlogo_square.png
+- https://gamepedia.cursecdn.com/pubg_esports_gamepedia_en/b/bf/FaZe_Clanlogo_square.png
+- https://gamepedia.cursecdn.com/lolesports_gamepedia_en/f/f6/FEN1X_eSportslogo_square.png
