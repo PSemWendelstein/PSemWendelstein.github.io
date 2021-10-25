@@ -90,7 +90,7 @@ _Bildquellen_
 _Videoquelle_
 - https://youtu.be/KAvQsRL-jeo
 
-### ESport-Manager*in
+### ESport Manager*in
 - https://www.studycheck.de/berufe/e-sportler
 - https://www.wings.hs-wismar.de/de/weiterbildung/esport-manager
 - https://www.wings.hs-wismar.de/de/weiterbildung/esport-manager/kursinhalte/modul?module=esport_management_im_breitensport&pid=56
