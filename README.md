@@ -105,8 +105,8 @@ _Bildquellen_
 - https://berufenet.arbeitsagentur.de/berufenet/faces/index?path=null/kurzbeschreibung&dkz=15289
 
 _Bildquellen_
-https://www.it.nrw/sites/default/files/styles/format_16x9_1280x0720/public/thumbnails/image/it-nrw_online_adobestock_191945238.jpg?itok=OwmhqDEc
-https://maxcdn.icons8.com/Share/icon/p1em/science/training1600.png
-https://counterdronesolutions.com.au/wp-content/uploads/2018/08/Education-Logo.png
-https://cdn-icons-png.flaticon.com/512/1508/1508781.png
-https://st3.depositphotos.com/4060975/17102/v/450/depositphotos_171029820-stock-illustration-writing-vector-icon.jpg
+- https://www.it.nrw/sites/default/files/styles/format_16x9_1280x0720/public/thumbnails/image/it-nrw_online_adobestock_191945238.jpg?itok=OwmhqDEc
+- https://maxcdn.icons8.com/Share/icon/p1em/science/training1600.png
+- https://counterdronesolutions.com.au/wp-content/uploads/2018/08/Education-Logo.png
+- https://cdn-icons-png.flaticon.com/512/1508/1508781.png
+- https://st3.depositphotos.com/4060975/17102/v/450/depositphotos_171029820-stock-illustration-writing-vector-icon.jpg
